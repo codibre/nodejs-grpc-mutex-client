@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/codibre/nodejs-grpc-mutex-client/compare/v0.1.0...v0.1.1) (2023-09-10)
+
+
+### Bug Fixes
+
+* fixing typedoc theme ([286f08f](https://github.com/codibre/nodejs-grpc-mutex-client/commit/286f08f39d6f7bb3799b4b89eb238527d45a56ac))
+
 # [0.1.0](https://github.com/codibre/nodejs-grpc-mutex-client/compare/v0.0.0...v0.1.0) (2023-09-10)
 
 
