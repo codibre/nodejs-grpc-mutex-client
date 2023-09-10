@@ -1,8 +1,7 @@
 {
   "name": "grpc-mutex-client",
-  "description": "This project is just a template for creation of new projects",
+  "description": "Client for nodejs-grpc-mutex-api",
   "version": "0.1.1",
-  "private": true,
   "author": {
     "name": "Thiago O Santos <tos.oliveira@gmail.com>"
   },
