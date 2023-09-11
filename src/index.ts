@@ -1,2 +1,2 @@
-export * from './get-client';
+export * from './mutex-api-client';
 export * from './models';
