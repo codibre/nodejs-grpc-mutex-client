@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/codibre/nodejs-grpc-mutex-client/compare/v0.3.0...v0.3.1) (2023-09-11)
+
+
+### Bug Fixes
+
+* fixing README badges ([7719491](https://github.com/codibre/nodejs-grpc-mutex-client/commit/7719491fff6dcc3fa8a1709dc39b7ddcc718e344))
+
 # [0.3.0](https://github.com/codibre/nodejs-grpc-mutex-client/compare/v0.2.0...v0.3.0) (2023-09-11)
 
 
