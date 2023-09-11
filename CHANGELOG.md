@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/codibre/nodejs-grpc-mutex-client/compare/v0.2.0...v0.3.0) (2023-09-11)
+
+
+### Features
+
+* bettering client interface and writing README ([f359a9f](https://github.com/codibre/nodejs-grpc-mutex-client/commit/f359a9f99c54d7eae264e56b300ae1b1bb7b80a7))
+
 # [0.2.0](https://github.com/codibre/nodejs-grpc-mutex-client/compare/v0.1.1...v0.2.0) (2023-09-10)
 
 
